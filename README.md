@@ -128,9 +128,8 @@ Business Insights Presentation
 
 Syed Waseem
 
-🎓 Final-year Software Engineering Student (PES Institute of Technology & Management, Shimoga)
-
-💻 Full-Stack Developer | Data Analyst
+🎓 Graduate Software Engineering 
+💻 Software Developer | Data Analyst
 
 🌐 GitHub
  | LinkedIn
