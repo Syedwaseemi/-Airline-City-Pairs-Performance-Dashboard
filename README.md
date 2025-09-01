@@ -1,12 +1,11 @@
 # -Airline-City-Pairs-Performance-Dashboard
-This project focuses on analyzing Australian domestic airline city-pair traffic data using Power BI. The dataset includes key metrics such as passengers, flights, available seats, distance, and load factors across multiple routes and time periods. The dashboard provides interactive visualizations to track airline performance,.
-
-.
+This project focuses on analyzing Australian domestic airline city-pair traffic data using Power BI. The dataset includes key metrics such as passengers, flights, available seats, distance, and load factors across multiple routes and time periods. The dashboard provides interactive visualizations to track airline performance,<img width="1919" height="973" alt="Screenshot 2025-08-23 150431" src="https://github.com/user-attachments/assets/3065e67f-c902-450e-8dea-cc03ed109441" />
 
 
 .
-.
-![Uploading Screenshot 2025-08-23 150431.png…]()
+
+
+
 
 
 .
